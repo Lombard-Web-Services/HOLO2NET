@@ -3,7 +3,7 @@ Holo2net is a commandline script that permit to change video to a pyramid hologr
 ## Requirements
 Holo2net is working on linux with python 3.6, u2net libary, backgroundremover, and ffmpeg.
 ## License
-MIT 
+MIT Thibaut LOMBARD
 ## Credits
 Backgroundremover, ffmpeg
 

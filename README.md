@@ -5,5 +5,5 @@ Holo2net is working on linux with python 3.6, u2net libary, backgroundremover, a
 ## License
 MIT Thibaut LOMBARD
 ## Credits
-Backgroundremover, ffmpeg
+Backgroundremover, ffmpeg, SquirLMixes‬ youtube.
 

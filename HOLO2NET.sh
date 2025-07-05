@@ -1,4 +1,5 @@
 #!/bin/bash
+# By Thibaut LOMBARD @lombardweb
 file=$1
 echo "translating $file to hologram.mp4";
 backgroundremover -i $file -tv -o "v.mp4"

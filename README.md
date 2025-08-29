@@ -34,7 +34,8 @@ To run the script, simply execute it from your terminal with your video file as 
 
 ## ⚖️ Credits & License 
 
-**License:** CC BY-NC-ND
+**License:** 
+
 ![Logo de la licence CC BY-NC-ND](CC_BY-NC_ND.png)
 
 **Author:** Thibaut LOMBARD

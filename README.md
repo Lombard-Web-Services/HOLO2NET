@@ -17,7 +17,7 @@ This script needs a CPU and a graphic card to work at its best capacity.
 
 This is the main bash script that automates the entire process. It takes a video file as input, uses `backgroundremover` to isolate the foreground object, and then uses a complex `ffmpeg` filter to rotate and arrange the four quadrants of the video to create the final holographic pyramid effect.
 
-### **explanation.py**
+### **explanations.py**
 
 This Python script generates a visual schema of the geometric transformations applied by the main script. It uses the `Pillow` library to create a PNG image (`hologram_schema.png`) that visually explains how the video is rotated and flipped to form the four faces of the hologram.
 

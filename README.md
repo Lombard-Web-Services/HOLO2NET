@@ -21,7 +21,7 @@ This is the main bash script that automates the entire process. It takes a video
 
 This Python script generates a visual schema of the geometric transformations applied by the main script. It uses the `Pillow` library to create a PNG image (`hologram_schema.png`) that visually explains how the video is rotated and flipped to form the four faces of the hologram.
 
-### **transformations_holographiques.pdf**
+### **transformations_geometriques.pdf**
 
 This PDF document provides a detailed, academic explanation of the mathematical principles behind the holographic effect. It uses LaTeX to present the geometric transformations (rotations, horizontal and vertical flips) and their corresponding matrix formulas. The document is for those who wish to understand the theoretical foundation of the script's visual effects.
 

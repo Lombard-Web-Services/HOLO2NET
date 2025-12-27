@@ -42,7 +42,7 @@ To run the script, simply execute it from your terminal with your video file as 
 
 **GitHub:** [https://github.com/Lombard-Web-Services/HOLO2NET](https://github.com/Lombard-Web-Services/HOLO2NET)
 
-** Results Demo: **[on youtube](https://www.youtube.com/watch?v=oA1w_rrwf1k)
+**Results Demo:** [on youtube](https://www.youtube.com/watch?v=oA1w_rrwf1k)
 ### 📜 Credits 
 * **Backgroundremover**: A Python tool for background removal.
 * **FFmpeg**: A complete, cross-platform solution for audio and video.
